@@ -1,0 +1,20 @@
+{
+  "name": "chai-array-properties",
+  "version": "0.0.0",
+  "description": "a chai plugin to assert array properties",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "typings": "./src/typings.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaggle/chai-array-properties.git"
+  },
+  "author": "Jon Lauridsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaggle/chai-array-properties/issues"
+  },
+  "homepage": "https://github.com/gaggle/chai-array-properties#readme"
+}
